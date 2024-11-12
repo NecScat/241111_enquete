@@ -2,4 +2,4 @@
 
 github pagesで公開
 
-https://necscat.github.io/discal_241111_enquete/
+https://necscat.github.io/241111_enquete/
